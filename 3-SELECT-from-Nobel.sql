@@ -91,8 +91,7 @@ WHERE winner = 'PETER GRÜNBERG';
 
 SELECT *
 FROM nobel
-WHERE winner = 'EUGENE O\'
-NEILL';
+WHERE winner = 'EUGENE O\'NEILL';
 
 
 -- 13. List the winners, year and subject where the winner starts with Sir. Show the the most recent first, then by name order.
